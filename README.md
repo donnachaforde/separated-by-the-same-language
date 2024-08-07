@@ -19,7 +19,7 @@ Professionally, I've found myself having to adapt the written word for the major
 It's worth reminding ourselves of the primary spelling differences between English and American-English. The latter tends to rely on more phonetic spelling. 
 
 * Words ending in 'our' tend to be spelt as 'or' - e.g. 'colour' and 'neighbour' are spelt as 'color' and 'neighbor' - but not words like 'tour'.
-* Along the there of phonetics, other word spellings vary - e.g. 'grey' is used in other English speaking contries whereas 'gray' is more common in the US.
+* Along the theme of phonetics, other word spellings vary - e.g. 'grey' is used in other English speaking contries whereas 'gray' is more common in the US.
 * The more observant will have picked up on my usage of 'spelt' rather than 'spelled' in the point above. It's been my experience that Americans will tend not to use the former. So, for example, you tend to see 'learned' rather than 'learnt' in written US-English. 
 
 
