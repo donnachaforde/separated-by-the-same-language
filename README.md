@@ -1,9 +1,6 @@
 # separated-by-the-same-language
 A living catalogue of different words and phrases across the English language 
 
-> [!NOTE]
-> George Bernard Shaw was quoted in 1942 as saying, "England and America are two countries separated by the same language."
-
 >**Note**: George Bernard Shaw was quoted in 1942 as saying, "England and America are two countries separated by the same language."
 
 ## Preface
@@ -11,7 +8,7 @@ I started to put this catalogue together because of years of noticing minor diff
 
 While a native speaker of the English language, I am not a lingustic expert so the following is merely an assembly of observations from:
 
-* Growing up in Ireland where we speak an 'Irish' version of English - i.e. local EN-IE. 
+* Growing up in Ireland where we speak an 'Irish' version of English - i.e. locale EN-IE. 
 * Working and living in the UK for almost a decade. 
 * Working for US Multinationals for over 25 years. 
 
@@ -25,13 +22,12 @@ It's worth reminding ourselves of the primary spelling differences between Engli
 * The more observant will have picked up on my usage of 'spelt' rather than 'spelled' in the point above. It's been my experience that Americans will tend not to use the former. So, for example, you tend to see 'learned' rather than 'learnt' in written US-English. 
 
 
-## Phrases 
-
-| UK&I Phrase| Meaning | US Equivalent | Comments | 
-| --- | --- | --- | --- |
-| "That's like turkeys voting for Christmas." | What your supporting does not serve your own interests. | N/A | I was surprised to learn this phrase didn't resonate in the US. Of course, turkeys have more of an association with 'Thanksgiving' there and Christmas is arguably not the main holiday of the year.
+## Turn of Phrase 
 
 
-| US Phrase| Meaning | UK&I Equivalent | Comments | 
-| --- | --- | --- | --- |
-| "Speak to" | A reference towards someone's ability to talk about a particular topic. e.g. John can speak to that.  | "Speak about" | It's more common to hear people say, for example, "John can speak about that" rather than "to that" in both the UK and Ireland. 
+| US-EN Phrases | UK & Ireland Phrases | Details | 
+| :-------- | :--- | :--- |
+| "Speak to" | "Speak about" | A reference towards someone's ability to talk about a particular topic. e.g. "John can speak to that" or "I can speak to that".  In both the UK and Ireland, it's more common to hear people say, for example, "John can speak about that" or "I can speak about that". |
+| "Touch base" | "Catch ya later" | This phrase is used in the US English to mean I'll be be in contact as in "I'll touch base with you about that" or "can you touch base with John to confirm that". I believe the expression originated in baseball and simply means that someone will contact another person. I reckon a close UK&I equivalent is "I'll catch up with you later".   |
+| N/A | "That's like turkeys voting for Christmas." | What your supporting does not serve your own interests. <br><br>I was surprised to learn this phrase didn't resonate in the US. Of course, turkeys have more of an association with 'Thanksgiving' and not necessarily Christmas as on might expect in UK&I. |
+| "Run it up the flag pole" | "Try it out" or "Give it a go" | I believe this is a shorterned version of "Run it up the flagpole and see who salutes it.", meaning "let's try it out and see if it works". <br> A commmon turn of phrase in the UK might be to "give it a whirl" and in Ireland it might be to "give it a lash". The latter can also be used in the content of encouragement as in "Give it a go!". |
