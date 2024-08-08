@@ -4,22 +4,31 @@ A living catalogue of different words and phrases across the English language
 >**Note**: George Bernard Shaw was quoted in 1942 as saying, "England and America are two countries separated by the same language."
 
 ## Preface
-I started to put this catalogue together because of years of noticing minor differences between writen and spoken English in the US, Ireland and the UK. Some of the differences in meaning and interpretation are amusing so I've long since considered capturing some of these anomalies. 
+This page attempts to capture some of the 'quirks' in how the English language is used between the US and the UK and Ireland (UK&I).Over the years I've found some of differences in interpretation of words, turn of phrase and even pronunciation can be a little amusing. 
+
 
 While a native speaker of the English language, I am not a lingustic expert so the following is merely an assembly of observations from:
 
 * Growing up in Ireland where we speak an 'Irish' version of English - i.e. locale EN-IE. 
-* Working and living in the UK for almost a decade. 
-* Working for US Multinationals for over 25 years. 
 
-Professionally, I've found myself having to adapt the written word for the majority of the intended audience, usually american. I 'whince' ever so slightly at the mis-spellings I deliberately make with reflections of my primary school education in the back of my mind. Eventually, I've given in and changed my spell-checker to US-EN. 
+* Working and living in the UK for almost a decade. 
+
+* Working for US Multinationals for over 25 years where I've worked with Americans from all over the country. 
+
+Professionally, I've found myself having to adapt the written word for the audience, the majority of which are usually American. I 'whince' ever so slightly at the 'mis-spellings' I deliberately make with flashbacks to my primary school education. Eventually, after many years of _fighthing the good fight_, I gave in and changed my spell-checker to US-EN. Now, I have to consciously adapt my spelling when messaging Europeans. 
 
 
 ## Spelling & Conventions
 It's worth reminding ourselves of the primary spelling differences between English and American-English. The latter tends to rely on more phonetic spelling. 
 
 * Words ending in 'our' tend to be spelt as 'or' - e.g. 'colour' and 'neighbour' are spelt as 'color' and 'neighbor' - but not words like 'tour'.
+
+* Words that pronounce 's' at the end are usually replaced with 'z' - e.g. 'realize' and 'serialize'. 
+
+* Words that have a slightly different spelling to donate the noun and verb, like 'licence' and 'license' respectively are not differentiated in US English. 
+
 * Along the theme of phonetics, other word spellings vary - e.g. 'grey' is used in other English speaking contries whereas 'gray' is more common in the US.
+
 * The more observant will have picked up on my usage of 'spelt' rather than 'spelled' in the point above. It's been my experience that Americans will tend not to use the former. So, for example, you tend to see 'learned' rather than 'learnt' in written US-English. 
 
 
