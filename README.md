@@ -41,3 +41,19 @@ It's worth reminding ourselves of the primary spelling differences between Engli
 | "Touch base" | "Catch ya later" | This phrase is used in the US English to mean I'll be be in contact as in "I'll touch base with you about that" or "can you touch base with John to confirm that". I believe the expression originated in baseball and simply means that someone will contact another person. I reckon a close UK&I equivalent is "I'll catch up with you later".   |
 | N/A | "That's like turkeys voting for Christmas." | What your supporting does not serve your own interests. <br><br>I was surprised to learn this phrase didn't resonate in the US. Of course, turkeys have more of an association with 'Thanksgiving' and not necessarily Christmas as on might expect in UK&I. |
 | "Run it up the flag pole" | "Try it out" or "Give it a go" | I believe this is a shorterned version of "Run it up the flagpole and see who salutes it.", meaning "let's try it out and see if it works". <br> A commmon turn of phrase in the UK might be to "give it a whirl" and in Ireland it might be to "give it a lash". The latter can also be used in the content of encouragement as in "Give it a go!". |
+
+
+## Pronunciation 
+This is one of more quirky differences, which of course is only apparent in spoken English. This is where I draw the line on making accommodations for our American cousins... :-) Here, I speak normally as the word is usually out before I can adapt anyway so instead I'd typically add "...or as you Americans say...". 
+
+
+
+| Word | US | UK&I | 
+| :-------- | :--- | :--- |
+| aluminium | _"alu-min-um"_ | _"alumin-ium"_ |
+| basil | _"baaz-ill"_ | _"baz-ill"_ | 
+| lever | _"lev-er"_ | _"leev-er"_ | 
+| oregano | _"oreg-ano"_ | _"ore-gano"_ |
+| niche | _"nitch"_ | _"neesh"_ | 
+
+>**Note**: There seems to be a lot going on with the pronunciation of 'herbs'. It seems ever that word itself isn't sacred with the leading 'h' being dropped in the US and pronounced as _"eerbs"_. 
