@@ -55,5 +55,7 @@ This is one of more quirky differences, which of course is only apparent in spok
 | lever | _"lev-er"_ | _"leev-er"_ | 
 | oregano | _"oreg-ano"_ | _"ore-gano"_ |
 | niche | _"nitch"_ | _"neesh"_ | 
+| route and router | _"wrout"_ and _"wrouter"_ | _"root_ and _"rooter"_| 
+
 
 >**Note**: There seems to be a lot going on with the pronunciation of 'herbs'. It seems ever that word itself isn't sacred with the leading 'h' being dropped in the US and pronounced as _"eerbs"_. 
