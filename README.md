@@ -87,10 +87,12 @@ In many cases, we have quite different words for the same thing.
 
 * Temperature is measured in Fahrenheit in both the US and the UK but Celsius is used in Ireland and the rest of Europe.
 
-* The US measures distance in miles, which is the same as the UK mile. While speed limits are measured in kph/kmph in Ireland, many older people will still think of distance in miles. 
+* The US measures distance in miles, which is the same as the UK mile. While speed limits are measured in kph (kilometers per hour) in Ireland, many people will still think of distance in terms of miles. 
 
 * Likewise, many older people in Ireland will judge weight using Imperial measures but think in terms of 'stones' and 'pounds' whereas the US only thinks in terms of 'pounds'. e.g. _"That guy must be over 250 pounds."_ versus _"That guy must be 18 stones."_
 
 * Ireland adopted the Metric system in the mid-70's shortly after joining the EU, then known as the EEC. Consequently, many generations still work in both Imperial and Metric. 
 
 * A pint of beer in the US is smaller than a pint in the UK. Beer is served in pint sizes in Ireland too (as 568ml). 
+
+* Shoe sizes and clothing sizes are different across the US, UK and Europe. 
