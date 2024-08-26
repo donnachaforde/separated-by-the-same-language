@@ -56,6 +56,7 @@ This is one of more quirky differences, which of course is only apparent in spok
 | :-------- | :--- | :--- |
 | aluminum & aluminium| _"alu-min-um"_ | _"alu-min-ee-um"_ |
 | basil | _"baaz-ill"_ | _"baz-ill"_ | 
+| buoy | _"booeey"_ | _"boy"_| 
 | lever | _"lev-er"_ | _"leev-er"_ | 
 | oregano | _"oreg-ano"_ | _"ore-gano"_ |
 | niche | _"nitch"_ | _"neesh"_ | 
