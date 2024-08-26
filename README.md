@@ -77,6 +77,12 @@ In many cases, we have quite different words for the same thing.
 | practice | training | e.g. "I brought my kids to training/practice yesterday." |
 | cleats (football) | studs | | 
 
+## Similar Words for the Same Thing
+In many cases, we have quite different words for the same thing. 
+
+| US | UK&I | Comments | 
+| :--- | :--- | :--- |
+| math | maths | This seems to be one of convention and one on which I've been queried as to why we say 'maths' on this _side of the pond_... To which I replied "Because it's short for "mathematics" - i.e. a plural. 
 
 ## Conventions & Measurements
 
