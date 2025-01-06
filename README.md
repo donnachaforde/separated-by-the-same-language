@@ -21,9 +21,9 @@ Professionally, I've found myself having to adapt the written word for the audie
 ## Spelling & Conventions
 It's worth reminding ourselves of the primary spelling differences between English and American-English. The latter tends to rely on more phonetic spelling. 
 
-* Words ending in 'our' tend to be spelt as 'or' - e.g. 'colour' and 'neighbour' are spelt as 'color' and 'neighbor' - but not words like 'tour'.
+* Words ending in 'our' tend to be spelt phonetically as 'or' - e.g. 'colour' and 'neighbour' are spelt as 'color' and 'neighbor' respectively.
 
-* Words that pronounce 's' at the end are usually replaced with 'z' - e.g. 'realize' and 'serialize'. 
+* Words that pronounce 's' towards the end, like 'realise' and 'serialize' are also subject to phonetic spelling and replace the 's' with 'z;. i.e. 'realize' and 'serialize'. 
 
 * Words that have a slightly different spelling to donate the noun and verb, like 'licence' and 'license' respectively are not differentiated in US English. 
 
@@ -35,6 +35,7 @@ It's worth reminding ourselves of the primary spelling differences between Engli
 
 * The older spelling of 'program' is 'programme'. You'll see both spellings in the UK&I but only the former in the US. 
 
+* Don't get me started on how 'data' should be pronounced. :-) 
 
 ## Turn of Phrase 
 
@@ -78,11 +79,11 @@ In many cases, we have quite different words for the same thing.
 | cleats (football) | studs | | 
 
 ## Similar Words for the Same Thing
-In many cases, we have quite different words for the same thing. 
+In some cases, we have nuanced differences with words for the same thing. 
 
 | US | UK&I | Comments | 
 | :--- | :--- | :--- |
-| math | maths | This seems to be one of convention and one on which I've been queried as to why we say 'maths' on this _side of the pond_... To which I replied "Because it's short for "mathematics" - i.e. a plural. 
+| math | maths | This seems to be one of convention and one on which I've been queried as to why we say 'maths' on this _side of the pond_... To which I replied "Because it's the abbreviations for 'mathematics'." 
 
 ## Conventions & Measurements
 
