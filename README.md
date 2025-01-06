@@ -15,7 +15,7 @@ While a native speaker of the English language, I am not a linguistic expert so 
 
 * Working for US Multinationals for over 25 years where I've worked with Americans from all over the country. 
 
-Professionally, I've found myself having to adapt the written word for the audience, the majority of which are usually American. I 'wince' ever so slightly at the 'mis-spellings' I deliberately make with flashbacks to my primary school education. Eventually, after many years of _fighting the good fight_, I gave in and changed my spell-checker to US-EN. Now, I have to consciously adapt my spelling when messaging Europeans. 
+Professionally, I've found myself having to adapt the written word for the audience, the majority of which are usually American. I 'whince' ever so slightly at the 'mis-spellings' I deliberately make with flashbacks to my primary school education. Eventually, after many years of _fighting the good fight_, I gave in and changed my spell-checker to US-EN. Now, I have to consciously adapt my spelling when messaging Europeans. 
 
 # Contents
 * [Spelling](#spelling)
@@ -51,15 +51,15 @@ This is one of more quirky differences, which of course is only apparent in spok
 | Word | US | UK&I | 
 | :-------- | :--- | :--- |
 | aluminum & aluminium| _"alu-min-um"_ | _"alu-min-ee-um"_ |
-| basil | _"baaz-ill"_ | _"baz-ill"_ | 
+| basil | _"baazz-ill"_ | _"baz-ill"_ | 
 | buoy | _"booeey"_ | _"boy"_| 
 | lever | _"lev-er"_ | _"leev-er"_ | 
 | oregano | _"oreg-ano"_ | _"ore-gano"_ |
 | niche | _"nitch"_ | _"neesh"_ | 
 | route & router | _"wrout"_ and _"wrouter"_ | _"root_ and _"rooter"_| 
+| herb | _"herb"_ | _"eerb"_ |
 
-
->**Note**: There seems to be a lot going on with the pronunciation of 'herbs'. It seems ever that word itself isn't sacred with the leading 'h' being dropped in the US and pronounced as _"eerbs"_. 
+For some reason, there seems to be much divergence on pronunciation of herb names, ironically including the word 'herb' itself. 
 
 > [!WARNING]  
 > Let's not open the _can of worms_ relating to how 'data' should be pronounced. :-) 
@@ -85,14 +85,16 @@ In many cases, we have quite different words for the same thing.
 | hood (car) | bonnet |
 | trunk (car)| boot |
 | practice | training | e.g. "I brought my kids to training/practice yesterday." |
-| cleats (football) | studs | | 
+| cleats (football) | studs | | e.g. "Check your cleats/studs on your boots." |
 
 ## Similar Words for the Same Thing
 In some cases, we have nuanced differences with words for the same thing. 
 
 | US | UK&I | Comments | 
 | :--- | :--- | :--- |
-| math | maths | This seems to be one of convention and one on which I've been queried as to why we say 'maths' on this _side of the pond_... To which I replied "Because it's the abbreviations for 'mathematics'." 
+| math | maths | This seems to be one of convention and one on which I've been queried as to why we say 'maths' on this _side of the pond_... To which I replied "Because it's the abbreviations for 'mathematics'." |
+| wince | whince | This is a matter of spelling style between US and UK&I English. |
+| license | licence | UK English differentiates between the noun 'licence' and the verb 'license', which US English does not. |
 
 ## Conventions & Measurements
 
