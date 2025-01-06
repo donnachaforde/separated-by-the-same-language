@@ -18,7 +18,7 @@ While a native speaker of the English language, I am not a linguistic expert so 
 Professionally, I've found myself having to adapt the written word for the audience, the majority of which are usually American. I 'wince' ever so slightly at the 'mis-spellings' I deliberately make with flashbacks to my primary school education. Eventually, after many years of _fighting the good fight_, I gave in and changed my spell-checker to US-EN. Now, I have to consciously adapt my spelling when messaging Europeans. 
 
 # Contents
-* [Spelling & Conventions](#spelling--conventions)
+* [Spelling](#spelling)
 * [Pronunciation](#pronunciation)
 * [Turn of Phrase](#turn-of-phrase)
 * [Different Words for the Same Thing](#different-words-for-the-same-thing)
@@ -26,7 +26,7 @@ Professionally, I've found myself having to adapt the written word for the audie
 * [Conventions & Measurements](#conventions--measurements)
 
 
-## Spelling & Conventions
+## Spelling
 
 It's worth reminding ourselves of the primary spelling differences between English and American-English. The latter tends to rely on more phonetic spelling. 
 
