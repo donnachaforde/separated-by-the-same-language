@@ -23,7 +23,7 @@ It's worth reminding ourselves of the primary spelling differences between Engli
 
 * Words ending in 'our' tend to be spelt phonetically as 'or' - e.g. 'colour' and 'neighbour' are spelt as 'color' and 'neighbor' respectively.
 
-* Words that pronounce 's' towards the end, like 'realise' and 'serialize' are also subject to phonetic spelling and replace the 's' with 'z;. i.e. 'realize' and 'serialize'. 
+* Words that pronounce 's' towards the end, like 'realise' and 'serialize' are also subject to phonetic spelling and replace the 's' with 'z'. i.e. 'realize' and 'serialize'. 
 
 * Words that have a slightly different spelling to donate the noun and verb, like 'licence' and 'license' respectively are not differentiated in US English. 
 
