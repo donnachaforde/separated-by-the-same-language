@@ -90,8 +90,8 @@ In many cases, we have quite different words for the same thing.
 | cleats (football) | studs | | e.g. "Check your cleats/studs on your boots." |
 | chips | crisps | A consitent source of confusion - see 'chips' under UK&I |
 | fries | chips | Fried, chipped potatoes |
-| pot stickers | dumplings | |
-
+| pot stickers | dumplings | 
+| cold punch | plunge bath _aka_ cold plunge | |
 
 ## Similar Words for the Same Thing
 In some cases, we have nuanced differences with words for the same thing. 
