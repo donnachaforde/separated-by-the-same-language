@@ -108,15 +108,15 @@ In some cases, we have nuanced differences with words for the same thing.
 
 * In the US, many taller buildings do not have a '13th' floor as it's considered to be unlucky.
 
-* The US uses Imperial while most of Europe uses Metric. However, the UK still measure things like distance and speed-limits in miles/mph but scientific and engineering work uses metric. 
+* The US uses Imperial while most of Europe uses Metric. However, the UK still measure things like distance and speed-limits in miles/mph but science and engineering work uses metric. 
+
+* Ireland adopted the Metric system in the mid-70's shortly after joining the EU, then known as the EEC. Consequently, many generations still work in both Imperial and Metric. 
 
 * Temperature is measured in Fahrenheit in both the US and the UK but Celsius is used in Ireland and the rest of Europe.
 
-* The US measures distance in miles, which is the same as the UK mile. While speed limits are measured in kph (kilometers per hour) in Ireland, many people will still think of distance in terms of miles. 
+* The US measures distance in miles, which is the same as the UK mile. While speed limits are measured in kph (kilometers per hour) in Ireland, many older people will still reference distance in terms of miles. 
 
-* Likewise, many older people in Ireland will judge weight using Imperial measures but think in terms of 'stones' and 'pounds' whereas the US only thinks in terms of 'pounds'. e.g. _"That guy must be over 250 pounds."_ versus _"That guy must be 18 stone."_
-
-* Ireland adopted the Metric system in the mid-70's shortly after joining the EU, then known as the EEC. Consequently, many generations still work in both Imperial and Metric. 
+* Likewise, many older people in Ireland will judge weight using Imperial measures and think in terms of 'stones' and 'pounds' for weight whereas the US only thinks in terms of 'pounds'. e.g. _"That guy must be over 250 pounds."_ versus _"That guy must be 18 stone."_
 
 * A pint of beer in the US is smaller than a pint in the UK. Beer is served in pint sizes in Ireland too (as 568ml). 
 
