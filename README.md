@@ -127,7 +127,7 @@ In some cases, we have nuanced differences with words for the same thing.
 * Shoe sizes and clothing sizes are different across the US, UK and Europe.
 
 ## Date Formats
-Date format is another area where format differs. To be fair, they differ greatly across global regions but the key difference between the US and UK&I is the order of the month - i.e. MM/DD/YYYY in the US and DD/MM/YYYY in UK&I. 
+Date is another area where format differs. To be fair, they differ greatly across global regions but the key difference between the US and UK&I is the order of the month - i.e. MM/DD/YYYY in the US and DD/MM/YYYY in UK&I. 
 
 * The written format of this can cause confusion - e.g. does 12/10/2026 correspond to the 12th of October (UK&I) or the 10th of December? To avoid confusion, I use the following date format universally - i.e. 12-OCT-2026.
 
