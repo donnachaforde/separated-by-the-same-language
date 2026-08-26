@@ -4,10 +4,10 @@ A living catalogue of different words and phrases across the English language
 >**Note**: George Bernard Shaw was quoted in 1942 as saying, "England and America are two countries separated by the same language."
 
 ## Preface
-This page attempts to capture some of the 'quirks' in how the English language is used between the US and the UK and Ireland (UK&I). Over the years I've found some of differences in interpretation of words, turn of phrase and even pronunciation can be a little amusing. 
+I created this page for fun in an attempt to capture some of the 'quirks' in how the English language is used between the US and the UK and Ireland (UK&I). Over the years I've found some of differences in interpretation of words, turn of phrase and even pronunciation can be a little amusing. So much so that I started making a list... 
 
 
-While a native speaker of the English language, I am not a linguistic expert so the following is merely an assembly of observations from:
+While a native speaker, I am not a linguistic expert of the English language so the following is merely an assembly of observations from:
 
 * Growing up in Ireland where we speak an 'Irish' version of English - i.e. locale EN-IE. 
 
@@ -15,7 +15,7 @@ While a native speaker of the English language, I am not a linguistic expert so 
 
 * Working for US Multinationals for over 25 years where I've worked with Americans from all over the country. 
 
-Professionally, I've found myself having to adapt the written word for the audience, the majority of which are usually American. I 'whince' ever so slightly at the 'mis-spellings' I deliberately make with flashbacks to my primary school education. Eventually, after many years of _fighting the good fight_, I gave in and changed my spell-checker to US-EN. Now, I have to consciously adapt my spelling when messaging Europeans. 
+Over the years, I've found myself having to adapt the written word for the audience at hand, which mostly American. I wince ever so slightly at the 'mis-spellings' I deliberately make and eventually, after many years of _fighting the good fight_, I gave in and changed my spell-checker to US-EN.  
 
 # Contents
 * [Spelling](#spelling)
