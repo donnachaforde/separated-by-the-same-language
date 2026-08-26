@@ -24,6 +24,8 @@ Over the years, I've found myself having to adapt the written word for the audie
 * [Different Words for the Same Thing](#different-words-for-the-same-thing)
 * [Similar Words for the Same Thing](#similar-words-for-the-same-thing)
 * [Conventions & Measurements](#conventions--measurements)
+* [Date Formats](#date-formats)
+* [Punctuation](#punctuation)
 
 
 ## Spelling
