@@ -135,6 +135,6 @@ Date format is another area where format differs. To be fair, they differ greatl
 
 | US | UK&I | Comments |
 | :--- | :--- | :--- |
-| "..." | '...' | US style generally uses double quotation marks for a primary quote, with single quotes reserved for a quote-within-a-quote. UK&I usage varies by publisher, but single quotes as the primary mark are common — e.g. He said, 'I'll speak to that.' |
-| He said "hello." | He said "hello". | US ("typesetters'") convention places a period or comma inside the closing quotation mark regardless of whether it's part of the quoted material. UK&I more often follows "logical" punctuation — the mark goes outside unless it was actually part of what was quoted. |
-| Mr. / Dr. / St. | Mr / Dr / St | US style keeps the full stop on abbreviated titles. UK&I convention (per Fowler's) drops the full stop when the abbreviation ends in the same letter as the full word — 'Mr' for 'Mister', 'Dr' for 'Doctor'. |
+| "..." | '...' | US style generally uses double quotation marks for a primary quote, with single quotes reserved for a quote-within-a-quote. UK&I usage varies by publisher, but single quotes as the primary mark are common - e.g. He said, 'I'll speak to that.' |
+| He said "hello." | He said "hello". | US ("typesetters'") convention places a period or comma inside the closing quotation mark regardless of whether it's part of the quoted material. UK&I more often follows "logical" punctuation - the mark goes outside unless it was actually part of what was quoted. |
+| Mr. / Dr. / St. | Mr / Dr / St | US style keeps the full stop on abbreviated titles. UK&I convention (per Fowler's) drops the full stop when the abbreviation ends in the same letter as the full word - 'Mr' for 'Mister', 'Dr' for 'Doctor'. |
