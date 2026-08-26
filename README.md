@@ -99,7 +99,6 @@ In some cases, we have nuanced differences with words for the same thing.
 | US | UK&I | Comments | 
 | :--- | :--- | :--- |
 | math | maths | This seems to be one of convention and one on which I've been queried as to why we say 'maths' on this _side of the pond_... To which I replied "Because it's the abbreviations for 'mathematics'." |
-| wince | whince | This is a matter of spelling style between US and UK&I English. |
 | license | licence | UK English differentiates between the noun 'licence' and the verb 'license', which US English does not. |
 
 ## Conventions & Measurements
