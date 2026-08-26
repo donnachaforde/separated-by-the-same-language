@@ -1,5 +1,5 @@
 # separated-by-the-same-language
-A living catalogue of different words and phrases across the English language 
+An extract of different words and phrases across the English language 
 
 >**Note**: George Bernard Shaw was quoted in 1942 as saying, "England and America are two countries separated by the same language."
 
@@ -9,7 +9,7 @@ I created this page for fun in an attempt to capture some of the 'quirks' in how
 
 While a native speaker, I am not a linguistic expert of the English language so the following is merely an assembly of observations from:
 
-* Growing up in Ireland where we speak an 'Irish' version of English - i.e. locale EN-IE. 
+* Growing up in Ireland where we speak an 'Irish' version of English or 'Hiberno-English' - i.e. locale EN-IE. 
 
 * Working and living in the UK for almost a decade. 
 
@@ -17,7 +17,7 @@ While a native speaker, I am not a linguistic expert of the English language so 
 
 Over the years, I've found myself having to adapt the written word for the audience at hand, which is mostly American. I wince ever so slightly at the 'mis-spellings' I deliberately make and eventually, after many years of _fighting the good fight_, I gave in and changed my spell-checker to US-EN.  
 
-# Contents
+## Contents
 * [Spelling](#spelling)
 * [Pronunciation](#pronunciation)
 * [Turn of Phrase](#turn-of-phrase)
@@ -64,8 +64,8 @@ This is one of the more quirky differences, which of course is only apparent in 
 
 For some reason, there seems to be much divergence on pronunciation of herb names, ironically including the word 'herb' itself. 
 
-> [!WARNING]  
-> Let's not open the _can of worms_ relating to how 'data' should be pronounced. :-) 
+
+>**Warning**: Let's not open the _can of worms_ relating to how 'data' should be pronounced. :-) 
 
 
 ## Turn of Phrase 
@@ -83,10 +83,10 @@ In many cases, we have quite different words for the same thing.
 
 | US | UK&I | Example | 
 | :--- | :--- | :--- |
-| sidewalk | footpath |
-| elevator | lift |
-| hood (car) | bonnet |
-| trunk (car)| boot |
+| sidewalk | footpath | |
+| elevator | lift | |
+| hood (car) | bonnet | |
+| trunk (car)| boot | |
 | practice | training | e.g. "I brought my kids to training/practice yesterday." |
 | cleats (football) | studs | e.g. "Check your cleats/studs on your boots." |
 | chips | crisps | A consistent source of confusion - see 'chips' under UK&I |
@@ -120,4 +120,11 @@ In some cases, we have nuanced differences with words for the same thing.
 
 * A pint of beer in the US is smaller than a pint in the UK. Beer is served in pint sizes in Ireland too (as 568ml). 
 
-* Shoe sizes and clothing sizes are different across the US, UK and Europe. 
+* Shoe sizes and clothing sizes are different across the US, UK and Europe.
+
+## Date Formats
+Date format is another area where format differs. To be fair, they differ greatly across global regions but the key difference between the US and UK&I is the order of the month - i.e. MM/DD/YYYY in the US and DD/MM/YYYY in UK&I. 
+
+* The written format of this can cause confusion - e.g. does 12/10/2026 correspond to the 12th of October (UK&I) or the 10th of December? To avoid confusion, I use the following date format universally - i.e. 12-OCT-2026.
+
+* The spoken form is different between the US and UK&I - In the US, your hear "October 12" whereas in UK&I you hear "12th of October", or perhaps "October the 12th". 
