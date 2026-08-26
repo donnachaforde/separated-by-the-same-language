@@ -15,7 +15,7 @@ While a native speaker, I am not a linguistic expert of the English language so 
 
 * Working for US Multinationals for over 25 years where I've worked with Americans from all over the country. 
 
-Over the years, I've found myself having to adapt the written word for the audience at hand, which mostly American. I wince ever so slightly at the 'mis-spellings' I deliberately make and eventually, after many years of _fighting the good fight_, I gave in and changed my spell-checker to US-EN.  
+Over the years, I've found myself having to adapt the written word for the audience at hand, which are mostly American. I wince ever so slightly at the 'mis-spellings' I deliberately make and eventually, after many years of _fighting the good fight_, I gave in and changed my spell-checker to US-EN.  
 
 # Contents
 * [Spelling](#spelling)
