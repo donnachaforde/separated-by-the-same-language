@@ -34,7 +34,7 @@ It's worth reminding ourselves of the primary spelling differences between Engli
 
 * Words that pronounce 's' towards the end, like 'realise' and 'serialise' are also subject to phonetic spelling and replace the 's' with 'z'. i.e. 'realize' and 'serialize'. 
 
-* Words that have a slightly different spelling to donate the noun and verb, like 'licence' and 'license' respectively are not differentiated in US English. 
+* Words that have a slightly different spelling to denote the noun and verb, like 'licence' and 'license' respectively are not differentiated in US English. 
 
 * Along the theme of phonetics, other word spellings vary - e.g. 'grey' is used in other English speaking countries whereas 'gray' is more common in the US.
 
@@ -72,9 +72,9 @@ For some reason, there seems to be much divergence on pronunciation of herb name
 | US-EN Phrases | UK & Ireland Phrases | Details | 
 | :-------- | :--- | :--- |
 | "Speak to." | "Speak about." | A reference towards someone's ability to talk about a particular topic. e.g. "John can speak to that" or "I can speak to that".  In both the UK and Ireland, it's more common to hear people say, for example, "John can speak about that" or "I can speak about that". |
-| "Touch base." | "Catch ya later." | This phrase is used in the US English to mean I'll be be in contact as in "I'll touch base with you about that" or "can you touch base with John to confirm that". I believe the expression originated in baseball and simply means that someone will contact another person. I reckon a close UK&I equivalent is "I'll catch up with you later".   |
-| N/A | "That's like turkeys voting for Christmas." | What your supporting does not serve your own interests. <br><br>I was surprised to learn this phrase didn't resonate in the US. Of course, turkeys have more of an association with 'Thanksgiving' and not necessarily Christmas as on might expect in UK&I. |
-| "Run it up the flag pole." | "Try it out." or "Give it a go." | I believe this is a shortened version of "Run it up the flagpole and see who salutes it.", meaning "let's try it out and see if it works". <br> A common turn of phrase in the UK might be to "give it a whirl" and in Ireland it might be to "give it a lash". The latter can also be used in the content of encouragement as in "Give it a go!". |
+| "Touch base." | "Catch ya later." | This phrase is used in the US English to mean I'll be in contact as in "I'll touch base with you about that" or "can you touch base with John to confirm that". I believe the expression originated in baseball and simply means that someone will contact another person. I reckon a close UK&I equivalent is "I'll catch up with you later".   |
+| N/A | "That's like turkeys voting for Christmas." | What your supporting does not serve your own interests. <br><br>I was surprised to learn this phrase didn't resonate in the US. Of course, turkeys have more of an association with 'Thanksgiving' and not necessarily Christmas as one might expect in UK&I. |
+| "Run it up the flag pole." | "Try it out." or "Give it a go." | I believe this is a shortened version of "Run it up the flagpole and see who salutes it.", meaning "let's try it out and see if it works". <br> A common turn of phrase in the UK might be to "give it a whirl" and in Ireland it might be to "give it a lash". The latter can also be used in the context of encouragement as in "Give it a go!". |
 | "I'm all set." | "I'm fine." | You may hear someone in the UK say "I'm sorted" while someone in Ireland might say "I'm grand."|
 
 ## Different Words for the Same Thing
@@ -88,7 +88,7 @@ In many cases, we have quite different words for the same thing.
 | trunk (car)| boot |
 | practice | training | e.g. "I brought my kids to training/practice yesterday." |
 | cleats (football) | studs | e.g. "Check your cleats/studs on your boots." |
-| chips | crisps | A consitent source of confusion - see 'chips' under UK&I |
+| chips | crisps | A consistent source of confusion - see 'chips' under UK&I |
 | fries | chips | Fried, chipped potatoes |
 | pot stickers | dumplings | 
 | cold punch | plunge bath _aka_ cold plunge | 
