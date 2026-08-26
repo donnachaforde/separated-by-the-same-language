@@ -4,7 +4,7 @@ A living catalogue of different words and phrases across the English language
 >**Note**: George Bernard Shaw was quoted in 1942 as saying, "England and America are two countries separated by the same language."
 
 ## Preface
-This page attempts to capture some of the 'quirks' in how the English language is used between the US and the UK and Ireland (UK&I).Over the years I've found some of differences in interpretation of words, turn of phrase and even pronunciation can be a little amusing. 
+This page attempts to capture some of the 'quirks' in how the English language is used between the US and the UK and Ireland (UK&I). Over the years I've found some of differences in interpretation of words, turn of phrase and even pronunciation can be a little amusing. 
 
 
 While a native speaker of the English language, I am not a linguistic expert so the following is merely an assembly of observations from:
@@ -30,9 +30,9 @@ Professionally, I've found myself having to adapt the written word for the audie
 
 It's worth reminding ourselves of the primary spelling differences between English and American-English. The latter tends to rely on more phonetic spelling. 
 
-* Words ending in 'our' tend to be spelt phonetically as 'or' - e.g. 'colour' and 'neighbour' are spelt as 'color' and 'neighbor' respectively.
+* Words ending in 'our' tend to be spelt phonetically as 'or' - e.g. 'colour' and 'neighbour' are spelt as 'color' and 'neighbor' respectively. But, not glamour. 
 
-* Words that pronounce 's' towards the end, like 'realise' and 'serialize' are also subject to phonetic spelling and replace the 's' with 'z'. i.e. 'realize' and 'serialize'. 
+* Words that pronounce 's' towards the end, like 'realise' and 'serialise' are also subject to phonetic spelling and replace the 's' with 'z'. i.e. 'realize' and 'serialize'. 
 
 * Words that have a slightly different spelling to donate the noun and verb, like 'licence' and 'license' respectively are not differentiated in US English. 
 
